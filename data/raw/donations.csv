@@ -1,0 +1,501 @@
+donation_id,donor_type,region,amount,donation_year
+1,Individual,Uttar Pradesh,18558,2023
+2,Individual,Karnataka,11601,2022
+3,Individual,Maharashtra,41218,2024
+4,Individual,Karnataka,33102,2022
+5,Individual,Tamil Nadu,9622,2023
+6,Individual,Karnataka,13076,2021
+7,Individual,Tamil Nadu,28016,2022
+8,Corporate,Tamil Nadu,22933,2024
+9,Individual,Maharashtra,1589,2023
+10,Individual,Rajasthan,37846,2023
+11,Individual,Uttar Pradesh,9627,2023
+12,Individual,Karnataka,10987,2023
+13,Individual,Tamil Nadu,655,2024
+14,Corporate,Karnataka,2458,2021
+15,Individual,Rajasthan,11193,2023
+16,Corporate,Uttar Pradesh,39612,2022
+17,Individual,Rajasthan,39047,2021
+18,Individual,Uttar Pradesh,29295,2023
+19,Individual,Bihar,21947,2021
+20,Individual,Uttar Pradesh,37098,2022
+21,Corporate,Maharashtra,42314,2023
+22,Corporate,Rajasthan,25715,2022
+23,Individual,Tamil Nadu,10294,2024
+24,Individual,Bihar,33709,2023
+25,Individual,Maharashtra,22924,2023
+26,Corporate,Karnataka,47746,2023
+27,Individual,Rajasthan,37896,2023
+28,Individual,Tamil Nadu,6870,2024
+29,Individual,Uttar Pradesh,10028,2023
+30,Individual,Tamil Nadu,28776,2021
+31,Individual,Karnataka,44833,2023
+32,Individual,Bihar,8679,2024
+33,Corporate,Bihar,49281,2023
+34,Individual,Rajasthan,17343,2021
+35,Individual,Bihar,24452,2024
+36,Corporate,Rajasthan,33660,2024
+37,Individual,Rajasthan,45398,2021
+38,Corporate,Rajasthan,30016,2021
+39,Individual,Uttar Pradesh,10949,2021
+40,Individual,Maharashtra,21625,2021
+41,Corporate,Rajasthan,7918,2021
+42,Individual,Rajasthan,23246,2024
+43,Individual,Maharashtra,2954,2024
+44,Individual,Tamil Nadu,18261,2023
+45,Individual,Rajasthan,15723,2023
+46,Individual,Uttar Pradesh,7201,2022
+47,Individual,Bihar,3097,2023
+48,Corporate,Bihar,641,2023
+49,Individual,Karnataka,3159,2021
+50,Individual,Karnataka,21480,2021
+51,Individual,Bihar,9531,2023
+52,Individual,Bihar,15537,2022
+53,Individual,Uttar Pradesh,47238,2021
+54,Corporate,Maharashtra,38929,2023
+55,Individual,Karnataka,6642,2023
+56,Individual,Maharashtra,12609,2024
+57,Individual,Uttar Pradesh,22510,2022
+58,Individual,Bihar,9287,2024
+59,Individual,Rajasthan,43364,2022
+60,Individual,Maharashtra,8972,2021
+61,Corporate,Bihar,23883,2022
+62,Individual,Bihar,4749,2023
+63,Individual,Tamil Nadu,48217,2023
+64,Individual,Maharashtra,35018,2022
+65,Individual,Rajasthan,18851,2022
+66,Individual,Maharashtra,4588,2022
+67,Individual,Bihar,15782,2024
+68,Individual,Rajasthan,19830,2022
+69,Individual,Uttar Pradesh,42909,2021
+70,Individual,Tamil Nadu,22278,2024
+71,Individual,Bihar,24764,2024
+72,Corporate,Karnataka,5575,2022
+73,Corporate,Karnataka,10912,2021
+74,Individual,Tamil Nadu,48954,2024
+75,Corporate,Uttar Pradesh,28865,2023
+76,Individual,Bihar,7730,2024
+77,Individual,Maharashtra,48700,2022
+78,Individual,Tamil Nadu,11502,2021
+79,Individual,Uttar Pradesh,14447,2022
+80,Individual,Maharashtra,14186,2023
+81,Corporate,Karnataka,29804,2023
+82,Individual,Karnataka,13574,2023
+83,Individual,Maharashtra,4993,2022
+84,Individual,Tamil Nadu,34728,2024
+85,Corporate,Karnataka,14640,2022
+86,Individual,Bihar,32155,2021
+87,Individual,Rajasthan,43972,2024
+88,Individual,Maharashtra,49937,2023
+89,Individual,Maharashtra,49916,2022
+90,Corporate,Karnataka,7316,2023
+91,Corporate,Tamil Nadu,12139,2023
+92,Individual,Bihar,47692,2021
+93,Corporate,Tamil Nadu,47233,2024
+94,Individual,Uttar Pradesh,29992,2021
+95,Corporate,Uttar Pradesh,11740,2021
+96,Individual,Rajasthan,33198,2021
+97,Individual,Karnataka,27457,2023
+98,Individual,Karnataka,33308,2021
+99,Individual,Karnataka,6327,2021
+100,Individual,Rajasthan,33262,2024
+101,Individual,Uttar Pradesh,8759,2024
+102,Individual,Tamil Nadu,15349,2021
+103,Individual,Rajasthan,16732,2024
+104,Individual,Rajasthan,41072,2024
+105,Individual,Tamil Nadu,24673,2021
+106,Corporate,Karnataka,5874,2023
+107,Individual,Bihar,21674,2021
+108,Individual,Tamil Nadu,24067,2024
+109,Individual,Uttar Pradesh,35792,2023
+110,Corporate,Maharashtra,9777,2022
+111,Individual,Maharashtra,32100,2023
+112,Individual,Rajasthan,10385,2024
+113,Corporate,Maharashtra,1278,2023
+114,Corporate,Bihar,29665,2021
+115,Individual,Karnataka,1992,2022
+116,Individual,Uttar Pradesh,30962,2022
+117,Individual,Bihar,14115,2022
+118,Corporate,Uttar Pradesh,45400,2024
+119,Individual,Uttar Pradesh,43446,2024
+120,Individual,Karnataka,8351,2022
+121,Corporate,Rajasthan,16788,2023
+122,Individual,Maharashtra,7656,2022
+123,Individual,Karnataka,2544,2023
+124,Individual,Bihar,7868,2023
+125,Individual,Rajasthan,20400,2024
+126,Individual,Bihar,31100,2023
+127,Individual,Rajasthan,46903,2022
+128,Individual,Bihar,26134,2024
+129,Individual,Karnataka,9668,2021
+130,Corporate,Rajasthan,21461,2021
+131,Individual,Rajasthan,44596,2024
+132,Corporate,Uttar Pradesh,46587,2022
+133,Individual,Uttar Pradesh,24352,2021
+134,Corporate,Tamil Nadu,33610,2021
+135,Individual,Bihar,32674,2023
+136,Individual,Uttar Pradesh,34715,2023
+137,Individual,Tamil Nadu,27455,2022
+138,Corporate,Uttar Pradesh,7081,2024
+139,Individual,Bihar,45119,2022
+140,Individual,Rajasthan,6817,2024
+141,Individual,Maharashtra,43356,2021
+142,Corporate,Bihar,46214,2023
+143,Individual,Karnataka,27149,2022
+144,Individual,Uttar Pradesh,23632,2022
+145,Individual,Uttar Pradesh,17289,2024
+146,Corporate,Rajasthan,15067,2024
+147,Individual,Karnataka,15368,2022
+148,Individual,Rajasthan,24870,2024
+149,Individual,Karnataka,43033,2022
+150,Individual,Maharashtra,30983,2022
+151,Individual,Uttar Pradesh,12966,2022
+152,Individual,Uttar Pradesh,29303,2021
+153,Individual,Maharashtra,18730,2024
+154,Individual,Tamil Nadu,18362,2023
+155,Individual,Rajasthan,43855,2023
+156,Individual,Maharashtra,31759,2024
+157,Individual,Rajasthan,34039,2022
+158,Individual,Bihar,22409,2023
+159,Individual,Uttar Pradesh,31295,2023
+160,Individual,Rajasthan,49568,2024
+161,Individual,Karnataka,9270,2023
+162,Individual,Rajasthan,11593,2022
+163,Individual,Bihar,47071,2024
+164,Individual,Uttar Pradesh,693,2022
+165,Corporate,Maharashtra,35275,2023
+166,Individual,Bihar,18069,2023
+167,Individual,Uttar Pradesh,11690,2022
+168,Individual,Rajasthan,43252,2021
+169,Individual,Tamil Nadu,32827,2023
+170,Individual,Tamil Nadu,42570,2021
+171,Individual,Karnataka,20889,2023
+172,Individual,Uttar Pradesh,40697,2021
+173,Individual,Tamil Nadu,2761,2021
+174,Individual,Maharashtra,28869,2021
+175,Individual,Uttar Pradesh,27012,2022
+176,Corporate,Maharashtra,7216,2021
+177,Individual,Maharashtra,21759,2021
+178,Corporate,Tamil Nadu,29433,2021
+179,Individual,Uttar Pradesh,42189,2023
+180,Individual,Rajasthan,4878,2021
+181,Individual,Bihar,41083,2023
+182,Individual,Tamil Nadu,47046,2021
+183,Corporate,Tamil Nadu,20335,2021
+184,Individual,Rajasthan,29533,2022
+185,Corporate,Uttar Pradesh,24500,2023
+186,Individual,Uttar Pradesh,45996,2021
+187,Corporate,Maharashtra,10832,2023
+188,Individual,Rajasthan,43104,2023
+189,Individual,Rajasthan,3300,2024
+190,Individual,Uttar Pradesh,30038,2022
+191,Individual,Maharashtra,30619,2022
+192,Individual,Tamil Nadu,8833,2022
+193,Individual,Karnataka,5910,2024
+194,Corporate,Bihar,18339,2024
+195,Individual,Tamil Nadu,31019,2022
+196,Individual,Uttar Pradesh,6308,2024
+197,Individual,Bihar,7296,2024
+198,Individual,Karnataka,21680,2024
+199,Individual,Karnataka,43556,2022
+200,Individual,Maharashtra,18209,2022
+201,Individual,Bihar,18043,2022
+202,Individual,Maharashtra,37918,2024
+203,Individual,Tamil Nadu,29575,2022
+204,Individual,Rajasthan,38255,2024
+205,Individual,Rajasthan,48468,2021
+206,Individual,Rajasthan,37965,2024
+207,Individual,Bihar,31002,2023
+208,Individual,Rajasthan,17224,2022
+209,Individual,Tamil Nadu,4328,2022
+210,Corporate,Maharashtra,17587,2023
+211,Individual,Bihar,13105,2024
+212,Corporate,Maharashtra,31837,2021
+213,Individual,Bihar,5982,2023
+214,Individual,Maharashtra,27505,2023
+215,Individual,Karnataka,23260,2024
+216,Corporate,Maharashtra,5963,2022
+217,Individual,Rajasthan,47128,2024
+218,Corporate,Karnataka,5412,2023
+219,Corporate,Maharashtra,5148,2023
+220,Individual,Bihar,34123,2022
+221,Individual,Bihar,36134,2022
+222,Individual,Bihar,45102,2022
+223,Individual,Uttar Pradesh,49562,2024
+224,Corporate,Tamil Nadu,49834,2022
+225,Corporate,Bihar,3612,2023
+226,Individual,Karnataka,22554,2023
+227,Individual,Bihar,4992,2021
+228,Individual,Uttar Pradesh,22707,2024
+229,Individual,Rajasthan,15614,2021
+230,Corporate,Karnataka,34785,2023
+231,Individual,Uttar Pradesh,16518,2021
+232,Individual,Rajasthan,21886,2023
+233,Individual,Karnataka,18240,2021
+234,Individual,Maharashtra,44699,2022
+235,Individual,Tamil Nadu,8710,2021
+236,Individual,Tamil Nadu,44863,2022
+237,Individual,Uttar Pradesh,46139,2022
+238,Individual,Rajasthan,13243,2024
+239,Corporate,Tamil Nadu,42592,2022
+240,Individual,Rajasthan,44799,2022
+241,Individual,Rajasthan,7088,2021
+242,Individual,Uttar Pradesh,3811,2023
+243,Individual,Uttar Pradesh,22932,2024
+244,Individual,Uttar Pradesh,34255,2022
+245,Individual,Tamil Nadu,3821,2024
+246,Individual,Uttar Pradesh,16312,2021
+247,Individual,Tamil Nadu,37883,2022
+248,Individual,Uttar Pradesh,48780,2021
+249,Individual,Bihar,13646,2024
+250,Corporate,Rajasthan,14154,2021
+251,Individual,Uttar Pradesh,36320,2024
+252,Individual,Karnataka,1226,2021
+253,Individual,Rajasthan,4260,2024
+254,Individual,Rajasthan,22690,2023
+255,Individual,Uttar Pradesh,2375,2021
+256,Individual,Maharashtra,23877,2021
+257,Corporate,Uttar Pradesh,47237,2023
+258,Individual,Rajasthan,4533,2023
+259,Individual,Karnataka,38711,2021
+260,Individual,Rajasthan,17873,2023
+261,Individual,Karnataka,4244,2022
+262,Individual,Tamil Nadu,25495,2024
+263,Individual,Bihar,17477,2024
+264,Individual,Rajasthan,32902,2024
+265,Corporate,Uttar Pradesh,35042,2022
+266,Individual,Tamil Nadu,11151,2023
+267,Individual,Bihar,34203,2023
+268,Individual,Uttar Pradesh,13895,2021
+269,Individual,Maharashtra,30308,2023
+270,Individual,Uttar Pradesh,37076,2021
+271,Individual,Karnataka,17215,2022
+272,Individual,Karnataka,44909,2024
+273,Corporate,Maharashtra,24806,2024
+274,Individual,Tamil Nadu,19586,2024
+275,Individual,Bihar,14876,2023
+276,Corporate,Uttar Pradesh,6389,2021
+277,Individual,Karnataka,38322,2021
+278,Individual,Tamil Nadu,37136,2022
+279,Individual,Maharashtra,21084,2023
+280,Individual,Rajasthan,49853,2022
+281,Individual,Karnataka,35110,2021
+282,Corporate,Maharashtra,10558,2021
+283,Individual,Uttar Pradesh,9601,2024
+284,Individual,Bihar,12997,2023
+285,Individual,Karnataka,5158,2021
+286,Individual,Karnataka,11881,2024
+287,Individual,Uttar Pradesh,40812,2023
+288,Individual,Rajasthan,40986,2022
+289,Corporate,Tamil Nadu,47119,2023
+290,Individual,Bihar,17654,2023
+291,Individual,Karnataka,20039,2021
+292,Individual,Bihar,12277,2021
+293,Individual,Karnataka,34896,2023
+294,Individual,Bihar,30873,2021
+295,Individual,Maharashtra,33654,2021
+296,Individual,Karnataka,6531,2021
+297,Individual,Bihar,28497,2024
+298,Individual,Tamil Nadu,6939,2024
+299,Individual,Maharashtra,23285,2023
+300,Corporate,Maharashtra,13892,2021
+301,Individual,Tamil Nadu,29169,2024
+302,Individual,Bihar,29439,2023
+303,Individual,Uttar Pradesh,2782,2021
+304,Corporate,Tamil Nadu,35124,2022
+305,Corporate,Bihar,48938,2021
+306,Individual,Tamil Nadu,24864,2021
+307,Corporate,Tamil Nadu,2498,2024
+308,Individual,Karnataka,32205,2023
+309,Individual,Bihar,38744,2023
+310,Individual,Uttar Pradesh,9928,2024
+311,Individual,Karnataka,37937,2021
+312,Individual,Tamil Nadu,12836,2022
+313,Corporate,Rajasthan,9842,2021
+314,Individual,Tamil Nadu,40332,2021
+315,Individual,Tamil Nadu,7946,2022
+316,Individual,Bihar,38892,2024
+317,Individual,Bihar,7961,2023
+318,Individual,Karnataka,35087,2024
+319,Individual,Uttar Pradesh,11016,2024
+320,Individual,Karnataka,14249,2021
+321,Corporate,Maharashtra,18014,2023
+322,Individual,Tamil Nadu,35926,2023
+323,Individual,Rajasthan,36768,2024
+324,Individual,Tamil Nadu,25450,2022
+325,Individual,Tamil Nadu,35388,2024
+326,Individual,Karnataka,37288,2022
+327,Individual,Rajasthan,10713,2023
+328,Corporate,Rajasthan,36527,2024
+329,Individual,Rajasthan,28511,2021
+330,Corporate,Karnataka,43349,2024
+331,Corporate,Tamil Nadu,35091,2023
+332,Individual,Karnataka,18358,2021
+333,Corporate,Bihar,19126,2021
+334,Individual,Bihar,13967,2022
+335,Corporate,Karnataka,40258,2021
+336,Individual,Rajasthan,3634,2021
+337,Corporate,Tamil Nadu,17243,2024
+338,Corporate,Karnataka,15934,2023
+339,Corporate,Karnataka,48275,2022
+340,Individual,Karnataka,10733,2024
+341,Individual,Maharashtra,49646,2021
+342,Individual,Bihar,1641,2021
+343,Individual,Rajasthan,18519,2022
+344,Individual,Uttar Pradesh,20884,2023
+345,Individual,Rajasthan,43403,2022
+346,Individual,Uttar Pradesh,46234,2024
+347,Corporate,Maharashtra,36629,2022
+348,Individual,Karnataka,23467,2021
+349,Corporate,Maharashtra,41103,2024
+350,Individual,Maharashtra,11672,2021
+351,Corporate,Tamil Nadu,16890,2023
+352,Corporate,Bihar,3767,2021
+353,Individual,Uttar Pradesh,39832,2021
+354,Individual,Karnataka,26667,2022
+355,Individual,Uttar Pradesh,21812,2021
+356,Individual,Rajasthan,28340,2024
+357,Individual,Uttar Pradesh,19490,2024
+358,Individual,Rajasthan,44679,2023
+359,Individual,Bihar,6406,2024
+360,Individual,Rajasthan,49296,2022
+361,Individual,Uttar Pradesh,40879,2023
+362,Individual,Uttar Pradesh,17797,2024
+363,Individual,Rajasthan,2511,2022
+364,Corporate,Maharashtra,44514,2024
+365,Individual,Bihar,47058,2024
+366,Corporate,Tamil Nadu,12238,2021
+367,Individual,Karnataka,29297,2024
+368,Individual,Uttar Pradesh,47998,2024
+369,Individual,Karnataka,11620,2022
+370,Individual,Tamil Nadu,9267,2022
+371,Individual,Karnataka,23352,2021
+372,Individual,Tamil Nadu,14203,2024
+373,Individual,Rajasthan,1429,2021
+374,Individual,Maharashtra,12451,2024
+375,Individual,Uttar Pradesh,26539,2023
+376,Individual,Tamil Nadu,49113,2023
+377,Individual,Karnataka,30004,2021
+378,Individual,Uttar Pradesh,17938,2021
+379,Individual,Maharashtra,49015,2021
+380,Individual,Rajasthan,6244,2022
+381,Corporate,Uttar Pradesh,18784,2022
+382,Individual,Tamil Nadu,42917,2022
+383,Individual,Maharashtra,40248,2021
+384,Corporate,Karnataka,7569,2024
+385,Individual,Maharashtra,42859,2023
+386,Individual,Maharashtra,20299,2021
+387,Individual,Bihar,33710,2022
+388,Individual,Maharashtra,28726,2022
+389,Individual,Maharashtra,5152,2021
+390,Individual,Uttar Pradesh,24823,2021
+391,Individual,Karnataka,42638,2022
+392,Individual,Uttar Pradesh,8097,2024
+393,Corporate,Uttar Pradesh,47593,2022
+394,Corporate,Tamil Nadu,37726,2022
+395,Individual,Uttar Pradesh,7091,2021
+396,Individual,Bihar,49614,2024
+397,Individual,Bihar,26333,2022
+398,Individual,Tamil Nadu,12326,2022
+399,Individual,Rajasthan,26917,2023
+400,Individual,Karnataka,19193,2021
+401,Corporate,Karnataka,14638,2023
+402,Individual,Uttar Pradesh,2669,2023
+403,Individual,Uttar Pradesh,19056,2022
+404,Individual,Rajasthan,22552,2021
+405,Individual,Uttar Pradesh,6813,2024
+406,Corporate,Karnataka,8815,2022
+407,Individual,Maharashtra,8536,2024
+408,Individual,Bihar,32278,2024
+409,Individual,Maharashtra,28234,2021
+410,Individual,Maharashtra,23673,2023
+411,Individual,Karnataka,30903,2021
+412,Individual,Maharashtra,1285,2024
+413,Individual,Rajasthan,6639,2022
+414,Individual,Tamil Nadu,6844,2024
+415,Individual,Uttar Pradesh,19300,2022
+416,Individual,Tamil Nadu,25872,2022
+417,Individual,Bihar,21038,2021
+418,Individual,Uttar Pradesh,15473,2024
+419,Individual,Maharashtra,6119,2023
+420,Corporate,Bihar,35204,2024
+421,Corporate,Uttar Pradesh,37075,2024
+422,Corporate,Rajasthan,40419,2023
+423,Individual,Rajasthan,42761,2021
+424,Individual,Rajasthan,45623,2024
+425,Individual,Rajasthan,28216,2024
+426,Individual,Maharashtra,3736,2022
+427,Corporate,Tamil Nadu,16348,2024
+428,Individual,Uttar Pradesh,2852,2023
+429,Individual,Maharashtra,2432,2022
+430,Individual,Rajasthan,11413,2021
+431,Individual,Tamil Nadu,9056,2022
+432,Individual,Bihar,21800,2023
+433,Individual,Bihar,5998,2023
+434,Individual,Bihar,11082,2022
+435,Individual,Rajasthan,47133,2021
+436,Individual,Bihar,10069,2022
+437,Individual,Karnataka,5357,2021
+438,Corporate,Uttar Pradesh,840,2022
+439,Corporate,Uttar Pradesh,44449,2023
+440,Individual,Rajasthan,17266,2024
+441,Individual,Karnataka,26632,2024
+442,Individual,Maharashtra,8991,2021
+443,Individual,Maharashtra,638,2021
+444,Individual,Bihar,858,2021
+445,Corporate,Tamil Nadu,10214,2023
+446,Individual,Maharashtra,20340,2022
+447,Corporate,Tamil Nadu,34895,2023
+448,Individual,Uttar Pradesh,31154,2024
+449,Individual,Tamil Nadu,26379,2021
+450,Individual,Uttar Pradesh,16496,2022
+451,Corporate,Karnataka,38272,2024
+452,Individual,Karnataka,27262,2024
+453,Individual,Rajasthan,13783,2024
+454,Individual,Rajasthan,39920,2023
+455,Individual,Bihar,20054,2021
+456,Individual,Maharashtra,20719,2024
+457,Individual,Bihar,35419,2021
+458,Individual,Uttar Pradesh,9929,2023
+459,Individual,Bihar,47340,2024
+460,Individual,Tamil Nadu,45195,2023
+461,Individual,Uttar Pradesh,40173,2023
+462,Individual,Rajasthan,19718,2021
+463,Individual,Karnataka,12952,2024
+464,Individual,Rajasthan,49480,2023
+465,Individual,Maharashtra,19451,2024
+466,Corporate,Uttar Pradesh,1807,2021
+467,Individual,Uttar Pradesh,15352,2023
+468,Individual,Tamil Nadu,25732,2021
+469,Individual,Maharashtra,35928,2024
+470,Individual,Karnataka,43671,2024
+471,Individual,Uttar Pradesh,26985,2021
+472,Individual,Uttar Pradesh,10738,2022
+473,Individual,Tamil Nadu,39475,2023
+474,Individual,Bihar,1640,2024
+475,Individual,Karnataka,25342,2024
+476,Individual,Rajasthan,26921,2023
+477,Individual,Maharashtra,2208,2021
+478,Individual,Uttar Pradesh,4130,2021
+479,Individual,Uttar Pradesh,20095,2021
+480,Individual,Rajasthan,10985,2022
+481,Corporate,Karnataka,28808,2022
+482,Individual,Bihar,45289,2024
+483,Individual,Uttar Pradesh,26586,2021
+484,Individual,Karnataka,17359,2023
+485,Individual,Rajasthan,8184,2024
+486,Individual,Tamil Nadu,26052,2023
+487,Individual,Bihar,1707,2024
+488,Individual,Maharashtra,46599,2022
+489,Individual,Uttar Pradesh,2460,2024
+490,Individual,Karnataka,1057,2022
+491,Individual,Tamil Nadu,30189,2024
+492,Individual,Maharashtra,49151,2021
+493,Corporate,Karnataka,14393,2023
+494,Individual,Karnataka,32772,2021
+495,Individual,Maharashtra,1382,2024
+496,Corporate,Tamil Nadu,38029,2024
+497,Individual,Rajasthan,39135,2024
+498,Individual,Tamil Nadu,30035,2022
+499,Individual,Bihar,13369,2023
+500,Corporate,Uttar Pradesh,7666,2023
