@@ -23,7 +23,7 @@ def transform(data):
 
 
 if __name__ == "__main__":
-    from extract import extract
+    from etl.extract import extract
 
     raw_data = extract()
     clean_data = transform(raw_data)
